@@ -59,3 +59,5 @@ Technical infrastructure improvements, such as tests, coverage or other integrat
 * Rob Sanderson (rsanderson@getty.edu)
 * David Newbury
 * Matthew Lincoln
+* George Lambert (marchon@gmail.com) 
+
